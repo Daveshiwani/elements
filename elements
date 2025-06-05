@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    </head>
+    <body>
+    <h>Formula One</h>
+    <p>Formula One is the highest class of worldwide racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de</p>
+    <h1>Teams in Formula One</h1>
+    <0l>
+        <li>Mercedes</li>
+        <li>Ferrari</li>
+        <li>Red Bull</li>
+        <li>Mclaren</li>
+        <li>Racing Bulls</li>
+        <li>Williams</li>
+        <li>Saber</li>
+        <li>Alpine</li>
+        <li>Haas</li>
+        <li>Aston Martin</li>
+    </0l>
+    </body>
+</html>
